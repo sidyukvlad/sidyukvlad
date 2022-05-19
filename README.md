@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @sidyukvlad
-- I’m currently learning python, django
-- I’m looking to collaborate on django
-- How to reach me - sidyukvlad@gmail.com
-- sidyukvlad@gmail.com - 
+- I’m @sidyukvlad
+- e-mail - sidyukvlad@gmail.com
 
 <!---
 sidyukvlad/sidyukvlad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
